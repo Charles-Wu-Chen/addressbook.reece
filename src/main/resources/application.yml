@@ -1,0 +1,7 @@
+server:
+  display-name: Address Book
+  port: 8000
+
+logging:
+  level:
+    root: INFO
